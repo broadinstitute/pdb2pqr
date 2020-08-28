@@ -1,0 +1,43 @@
+Metadata-Version: 1.2
+Name: pdb2pqr
+Version: 3.0.1
+Summary: Automates many of the common tasks of preparing structures for continuum solvation calculations as well as many other types of biomolecular structure modeling, analysis, and simulation.
+Home-page: http://www.poissonboltzmann.org
+Author: Jens Erik Nielsen, Nathan Baker, and many others.
+Author-email: nathanandrewbaker@gmail.com
+License: BSD
+Project-URL: Documentation, http://www.poissonboltzmann.org
+Project-URL: Get help, https://github.com/Electrostatics/pdb2pqr/issues
+Project-URL: Publications, https://pubmed.ncbi.nlm.nih.gov/?term=R01+GM069702
+Project-URL: Funding, https://bit.ly/apbs-funding
+Project-URL: Source, https://github.com/Electrostatics/pdb2pqr
+Description: PDB2PQR
+        ============
+        
+        This package contains the PDB2PQR software (http://www.poissonboltzmann.org/docs/structures-ready/).
+        
+        For more information about PDB2PQR, please see
+        
+        * Home page:  http://www.poissonboltmzann.org/
+        * User guide:  http://www.poissonboltzmann.org/docs/pdb2pqr-algorithm-description/
+        * Programmer guide:  http://www.poissonboltzmann.org/docs/pdb2pqr-programmers/
+        
+        
+Keywords: science chemistry molecular biology
+Platform: UNKNOWN
+Classifier: Development Status :: 2 - Pre-Alpha
+Classifier: Environment :: Console
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Natural Language :: English
+Classifier: Operating System :: MacOS
+Classifier: Operating System :: Microsoft :: Windows
+Classifier: Operating System :: POSIX
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Topic :: Scientific/Engineering :: Bio-Informatics
+Classifier: Topic :: Scientific/Engineering :: Chemistry
+Requires-Python: >=3.5
